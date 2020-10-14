@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser is maximised]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25581" started-at="2019-06-27T04:59:08Z" finished-at="2019-06-27T04:59:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25581" started-at="2019-06-27T04:59:08Z" finished-at="2019-06-27T04:59:33Z">
+      <class name="practiceSelenium.TestChrome">
+        <test-method status="PASS" signature="test1()[pri:0, instance:practiceSelenium.TestChrome@5d5eef3d]" test-instance-name="" name="test1" duration-ms="25544" started-at="2019-06-27T10:29:08Z" finished-at="2019-06-27T10:29:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is maximised]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- practiceSelenium.TestChrome -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
